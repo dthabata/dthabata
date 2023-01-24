@@ -4,6 +4,9 @@
 const thabs = {
   pronouns: "she" | "her",
   description: "self-taught Frontend Software Engineer",
+    highlights: {
+      personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
+    },
     technologies: {
       frontEnd: {
         code: ["Javascript", "Typescript"],
@@ -15,9 +18,6 @@ const thabs = {
       databases: ["MongoDB", "MySql", "Postman"],
     },
   architecture: ["Micro Front-End", "Design System Pattern"],
-    highlights: {
-      personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
-    },
   askMeAbout: ["web dev", "tech", "app dev", "movies", "music", "rpg"],
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
   funFacts: {
