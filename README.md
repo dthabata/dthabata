@@ -9,7 +9,9 @@ const thabs = {
         code: ["Javascript", "Typescript"],
         tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
       },
-      backEnd: ["Node", "Express"],
+      backEnd: {
+        tools: ["Node", "Express"],
+      },
       databases: ["MongoDB", "MySql", "Postman"],
     },
   architecture: ["Micro Front-End", "Design System Pattern"],
