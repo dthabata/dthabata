@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thabata Dornelas! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2> Hi, I'm Thabata Dornelas! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></h2>
 
 ```javascript
 const thabs = {
