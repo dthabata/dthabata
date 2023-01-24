@@ -3,6 +3,7 @@
 ```javascript
 const thabs = {
   pronouns: "She" | "Her",
+  description: "Self-taught passionate Frontend Software Engineer",
   code: ["Javascript", "Typescript"],
   tools: ["React", "Redux", "Storybook", "Styled-Components", "Jest"],
     technologies: {
@@ -12,7 +13,6 @@ const thabs = {
       databases: ["MongoDB", "MySql", "Postman"],
     },
   architecture: ["Micro Front-End", "Design System Pattern"],
-  description: "Self-taught passionate Frontend Software Engineer",
     highlights: {
       personality: ["friendly", "hands-on", "results-focused", "agile", "resilient"],
     },
