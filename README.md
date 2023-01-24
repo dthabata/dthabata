@@ -4,12 +4,12 @@
 const thabs = {
   pronouns: "She" | "Her",
   description: "Self-taught passionate Frontend Software Engineer",
-  code: ["Javascript", "Typescript"],
-  tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
     technologies: {
-      backEnd: {
-          js: ["Node", "Express"],
+      frontEnd: {
+        code: ["Javascript", "Typescript"],
+        tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
       },
+      backEnd: ["Node", "Express"],
       databases: ["MongoDB", "MySql", "Postman"],
     },
   architecture: ["Micro Front-End", "Design System Pattern"],
