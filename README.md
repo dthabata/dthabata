@@ -4,26 +4,26 @@
 const thabs = {
   pronouns: "she" | "her",
   description: "self-taught Frontend Software Engineer",
-    highlights: {
-      personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
+  highlights: {
+    personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
+  },
+  technologies: {
+    frontEnd: {
+      code: ["Javascript", "Typescript"],
+      tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
     },
-    technologies: {
-      frontEnd: {
-        code: ["Javascript", "Typescript"],
-        tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
-      },
-      backEnd: {
-        tools: ["Node", "Express"],
-      },
-      databases: ["MongoDB", "MySql", "Postman"],
+    backEnd: {
+      tools: ["Node", "Express"],
     },
+    databases: ["MongoDB", "MySql", "Postman"],
+  },
   architecture: ["Micro Front-End", "Design System Pattern"],
   askMeAbout: ["web dev", "tech", , "startups", "app dev", "movies", "music", "rpg"],
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
-    funFacts: {
-      tastes: ["loves animals", "enjoys homeoffice", "passionate about all cultures"],
-      quirks: ["can get caught singing in the shower sometimes..."]
-    },
+  funFacts: {
+    tastes: ["loves animals", "enjoys homeoffice", "passionate about all cultures"],
+    quirks: ["can get caught singing in the shower sometimes..."]
+  },
 }
 ```
 
