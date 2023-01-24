@@ -23,7 +23,7 @@ const thabs = {
   funFacts: {
     tastes: ["loves animals", "enjoys homeoffice", "passionate about all cultures"],
     quirks: ["can get caught singing in the shower sometimes..."]
-  },
+  }
 }
 ```
 
