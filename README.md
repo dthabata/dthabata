@@ -22,7 +22,7 @@ const thabs = {
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
   funFacts: {
     tastes: ["loves animals", "enjoys homeoffice", "passionate about all cultures"],
-    quirks: "can get caught singing in the shower sometimes...",
+    quirks: ["can mix English in the middle of a conversation", "can get caught singing in the shower sometimes..."],
   },
 };
 ```
