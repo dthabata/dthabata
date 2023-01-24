@@ -5,7 +5,7 @@ const thabs = {
   pronouns: "She" | "Her",
   description: "Self-taught passionate Frontend Software Engineer",
   code: ["Javascript", "Typescript"],
-  tools: ["React", "Redux", "Storybook", "Styled-Components", "Jest"],
+  tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
     technologies: {
       backEnd: {
           js: ["Node", "Express"],
@@ -14,7 +14,7 @@ const thabs = {
     },
   architecture: ["Micro Front-End", "Design System Pattern"],
     highlights: {
-      personality: ["friendly", "hands-on", "results-focused", "agile", "resilient"],
+      personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "agile", "resilient"],
     },
   askMeAbout: ["web dev", "tech", "app dev", "movies", "music", "rpg"],
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
