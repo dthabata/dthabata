@@ -21,7 +21,7 @@ const thabs = {
   askMeAbout: ["web dev", "tech", "app dev", "movies", "music", "rpg"],
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
   funFacts: {
-    tastes: ["loves animals", "enjoys homeoffice and travelling while coding", "passionate about different cultures"],
+    tastes: ["loves animals", "enjoys homeoffice", "passionate about all cultures"],
     quirks: ["can get caught singing in the shower sometimes..."]
 }
 ```
