@@ -18,7 +18,7 @@ const thabs = {
     },
   askMeAbout: ["web dev", "tech", "app dev", "movies", "music", "rpg"],
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
-  funFact: "Task in English in her own head sometimes..."
+  funFact: "Talks in English in her own head sometimes..."
 }
 ```
 
