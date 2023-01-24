@@ -3,7 +3,7 @@
 ```javascript
 const thabs = {
   pronouns: "she" | "her",
-  description: "self-taught passionate Frontend Software Engineer",
+  description: "self-taught Frontend Software Engineer",
     technologies: {
       frontEnd: {
         code: ["Javascript", "Typescript"],
@@ -20,7 +20,9 @@ const thabs = {
     },
   askMeAbout: ["web dev", "tech", "app dev", "movies", "music", "rpg"],
   currentFocus: "#50DaysOfCode challenge on React and TypeScript",
-  funFact: "talks in English in her own head sometimes..."
+  funFacts: {
+    tastes: ["loves animals", "enjoys homeoffice and travelling while coding", "passionate about different cultures"],
+    quirks: ["can get caught singing in the shower sometimes..."]
 }
 ```
 
