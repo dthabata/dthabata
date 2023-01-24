@@ -23,8 +23,8 @@ const thabs = {
   funFacts: {
     tastes: ["loves animals", "enjoys homeoffice", "passionate about all cultures"],
     quirks: ["can get caught singing in the shower sometimes..."]
-  }
-}
+  },
+};
 ```
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dornelasthabata@gmail.com)](mailto:dornelasthabata@gmail.com)
