@@ -16,7 +16,7 @@ const thabs = {
   },
   architecture: ["Micro Front-End", "Design System Pattern"],
   askMeAbout: ["web dev", "tech", , "startups", "app dev", "movies", "music", "rpg"],
-  currentFocus: "#50DaysOfCode challenge on React and TypeScript",
+  currentFocus: "to develop more projetcs on my own; using just my ideas, own design and development",
   highlights: {
     personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
