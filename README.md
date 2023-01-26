@@ -15,14 +15,14 @@ const thabs = {
     databases: ["MongoDB", "MySql", "Postman"],
   },
   architecture: ["Micro Front-End", "Design System Pattern"],
-  askMeAbout: ["web dev", "tech", "startups", "movies", "chess", "music", "rpg"],
-  currentFocus: "to develop more projetcs, using just my own ideas, design and development",
+  askMeAbout: ["Web Development", "tech", "startups", "movies", "chess", "music", "RPG"],
+  currentFocus: "to develop more projetcs, using just my own ideas, design and code",
   highlights: {
     personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
   funFacts: {
-    tastes: ["loves animals", "enjoys homeoffice", "hates tea", "passionate about all cultures"],
-    quirks: ["speaks English out of nowhere", "can get caught singing in the shower sometimes..."],
+    tastes: ["loves animals", "enjoys home office", "hates tea", "passionate about all cultures"],
+    quirks: ["speaks Portuguese mixed with English most of the time", "can get caught singing in the shower..."],
   },
 };
 ```
