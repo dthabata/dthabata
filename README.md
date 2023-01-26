@@ -3,20 +3,20 @@
 ```javascript
 const thabs = {
   pronouns: "she" | "her",
-  description: "self-taught Frontend Software Engineer",
+  description: "self-taught Front-End Software Engineer",
   technologies: {
     frontEnd: {
       code: ["Javascript", "Typescript"],
-      tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "Styled-Components", "Jest"],
+      tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "styled-components", "Jest"],
     },
     backEnd: {
       tools: ["Node", "Express"],
     },
-    databases: ["MongoDB", "MySql", "Postman"],
+    databases: ["MongoDB", "MySQL", "Postman"],
   },
   architecture: ["Micro Front-End", "Design System Pattern"],
   askMeAbout: ["Web Development", "tech", "startups", "movies", "chess", "music", "RPG"],
-  currentFocus: "to develop more projetcs, using just my own ideas, design and code",
+  currentFocus: "to develop more projetcs using only my own ideas, design and code",
   highlights: {
     personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
