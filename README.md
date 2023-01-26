@@ -15,7 +15,7 @@ const thabs = {
     databases: ["MongoDB", "MySql", "Postman"],
   },
   architecture: ["Micro Front-End", "Design System Pattern"],
-  askMeAbout: ["web dev", "tech", , "startups", "app dev", "movies", "music", "rpg"],
+  askMeAbout: ["web dev", "tech", , "startups", "app dev", "movies", "chess", "music", "rpg"],
   currentFocus: "to develop more projetcs on my own; using just my ideas, own design and development",
   highlights: {
     personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
