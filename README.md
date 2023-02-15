@@ -10,9 +10,9 @@ const thabs = {
       tools: ["React", "Hooks", "Context API", "Redux", "Storybook", "styled-components", "Jest"],
     },
     backEnd: {
-      tools: ["Node", "Express"],
+      tools: ["Node.js"],
     },
-    databases: ["MongoDB", "MySQL", "Postman"],
+    databases: ["Postman API"],
   },
   architecture: ["Micro Front-End", "Design System Pattern"],
   askMeAbout: ["tech", "Web Development", "startups", "movies", "Linux", "chess", "music", "RPG"],
@@ -21,7 +21,7 @@ const thabs = {
     personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
   funFacts: {
-    tastes: ["loves animals", "enjoys home office", "hates tea", "passionate about all cultures"],
+    tastes: ["loves animals, specially Chihuahuas", "enjoys home office", "hates tea", "passionate about different cultures"],
     quirks: ["speaks Portuguese mixed with English most of the time", "can get caught singing in the shower..."],
   },
 };
