@@ -22,7 +22,7 @@ const thabs = {
   },
   funFacts: {
     tastes: ["loves animals, specially Chihuahuas", "enjoys home office", "not a big fan of tea"],
-    quirks: ["talks in Portuguese but can mix it with English", "can get caught singing anytime..."],
+    quirks: ["speaks Portuguese but can mix it with English", "can get caught singing anytime..."],
   },
 };
 ```
