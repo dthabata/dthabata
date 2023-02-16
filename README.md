@@ -18,10 +18,10 @@ const thabs = {
   askMeAbout: ["tech", "Web Development", "startups", "movies", "Linux", "chess", "music", "RPG"],
   currentFocus: "build more projetcs using only my own ideas, design and code",
   highlights: {
-    personality: ["friendly", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
+    personality: ["social", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
   funFacts: {
-    tastes: ["loves animals", "enjoys home office", "not a big fan of tea", "plays some instruments"],
+    tastes: ["loves animals", "enjoys home office", "not a big fan of tea"],
     quirks: ["speaks Portuguese but can mix it with English", "can get caught singing at any time..."],
   },
 };
