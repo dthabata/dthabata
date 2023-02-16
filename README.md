@@ -18,7 +18,7 @@ const thabs = {
   askMeAbout: ["tech", "Web Development", "startups", "movies", "Linux", "chess", "music", "RPG"],
   currentFocus: "build more projetcs using only my own ideas, design and code",
   highlights: {
-    personality: ["social", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
+    personality: ["very social", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
   funFacts: {
     tastes: ["loves animals", "enjoys home office", "not a big fan of tea"],
