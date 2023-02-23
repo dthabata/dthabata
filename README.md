@@ -21,7 +21,7 @@ const thabs = {
     personality: ["very social", "hands-on", "results-focused", "ENFJ-T", "empathic", "agile", "resilient"],
   },
   funFacts: {
-    tastes: ["loves animals", "enjoys home office", "not a big fan of tea"],
+    tastes: ["loves to write stories", "enjoys home office", "not a big fan of tea"],
     quirks: ["speaks Portuguese but can mix it with English", "can get caught singing at any time..."],
   },
 };
