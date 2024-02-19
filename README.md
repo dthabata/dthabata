@@ -2,7 +2,9 @@
 
 i'm a software developer specialized in front-end. i believe tech to be a powerful tool to help people. 
 
-having a hands-on profile, i'm consistently attentive not to lose track of my career purpose with a growth mindset. 🚀
+having a hands-on profile, i'm consistently attentive not to lose track of my career purpose with a growth mindset.
+
+nowadays, i'm working my way up to be a senior professional. every day is one day closer to my main goal! 🚀
 
 > if you're interested in the work i do, please consider reaching out! i love sharing experiences.
 
