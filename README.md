@@ -1,6 +1,6 @@
 #### hi, i'm thabata! 👋
 
-i'm a software dev specialized in front-end. i believe tech to be a powerful tool to help people. 
+i'm a software eng specialized in front-end. i believe tech to be a powerful tool to help people. 
 
 having a hands-on profile, i'm very attentive not to lose track of my career purpose with a growth mindset.
 
