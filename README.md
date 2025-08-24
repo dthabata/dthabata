@@ -1,4 +1,4 @@
-#### hi, i'm thabata! 👋
+#### hi, thabata here! 👋
 
 i'm a full stack software eng specialized in frontend. i believe tech to be a powerful tool to help people. 
 
