@@ -1,28 +1,28 @@
 # hi, thabata here! 👋
 
-i’m a **full stack software engineer**, specialized in **frontend** and passionate about building products that make a difference.  
-i believe tech is a powerful tool to help people, and i’m driven by a **growth mindset** 🚀.  
+i’m a **Full Stack Software Engineer**, specialized in **Frontend**.
+i believe tech is a powerful tool to help people, and i’m driven by making a difference with a **growth mindset**. 🚀
 
 ---
 
 ### 🔧 hard skills
-- **Frontend**: React, TypeScript, JavaScript (ES6+), HTML5, CSS3/LESS/SASS  
-- **Backend**: Node.js, PHP (Magento 2), RESTful APIs, GraphQL  
-- **Dev Tools**: Git, Docker/Warden, Grunt, Varnish, Linux  
-- **Other**: Responsive design, Design Systems, TDD, Agile practices
+- **Frontend**: React, TypeScript, JavaScript (ES6+), HTML5, CSS3/LESS/SASS;
+- **Backend**: Node.js, PHP (Magento 2), RESTful APIs, GraphQL;
+- **Dev Tools**: Git, Docker/Warden, Grunt, Varnish, Linux;
+- **other**: Responsive Design, Design Systems, TDD.
 
 ---
 
 ### 🌱 soft skills
-- Product-oriented & results-focused  
-- Strong collaboration in cross-functional teams  
-- Attentive to UX/UI and accessibility  
-- Agile, adaptable, and resilient  
-- Empathetic communicator & fast learner  
+- product-oriented & results-focused;
+- atrong collaboration in cross-functional teams;
+- attentive to UX/UI and accessibility;
+- agile, adaptable, and resilient;
+- empathetic communicator & super fast learner.
 
 ---
 
-📌 **Career focus**: turning ideas into impactful solutions while growing both technically and personally.  
+📌 **career focus**: turning ideas into impactful solutions while growing both technically and personally.  
 📫 find me easily [here!](https://www.linkedin.com/in/thabatadornelas/)
 
 <p align="center">
