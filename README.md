@@ -1,7 +1,7 @@
 # hi, thabata here! 👋
 
 i’m a **Full Stack Software Engineer**, specialized in **Frontend**.
-i believe tech is a powerful tool to help people, and i’m driven by making a difference with a **growth mindset**. 🚀
+i believe tech is a powerful tool to help people.
 
 ---
 
