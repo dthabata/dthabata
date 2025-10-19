@@ -1,6 +1,6 @@
 # hi, thabata here! 👋
 
-i’m a **full stack software engineer/developer**, with a sweeeeet tooth for **frontend**.
+i’m a **full stack software engineer/developer**, with a sweeet tooth for **frontend**.
 i believe tech is a powerful tool to help people.
 
 ---
