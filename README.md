@@ -9,7 +9,7 @@ i believe tech is a powerful tool to help people.
 - **Frontend**: React, TypeScript, JavaScript (ES6+), HTML5, CSS3/LESS/SASS;
 - **Backend**: Node.js, PHP (Magento 2), RESTful APIs, GraphQL;
 - **Dev Tools**: Git, Docker/Warden, Grunt, Varnish, Linux;
-- **other**: Responsive Design, Design Systems, TDD.
+- **Other**: Responsive Design, Design Systems, TDD.
 
 ---
 
