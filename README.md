@@ -6,10 +6,10 @@ i believe tech is a powerful tool to help people.
 ---
 
 ### 🔧 hard skills
-- **Frontend**: React, TypeScript, JavaScript (ES6+), HTML5, CSS3/LESS/SASS;
-- **Backend**: Node.js, PHP (Magento 2), RESTful APIs, GraphQL;
-- **Dev Tools**: Git, Docker/Warden, Grunt, Varnish, Linux;
-- **Other**: Responsive Design, Design Systems, TDD.
+- **front**: React, TypeScript, JavaScript (ES6+), HTML5, CSS3/LESS/SASS;
+- **back**: Node.js, PHP (Magento 2), RESTful APIs, GraphQL;
+- **tools**: Git, Docker/Warden, Grunt, Varnish, Linux;
+- **other**: Responsive Design, Design Systems, TDD.
 
 ---
 
